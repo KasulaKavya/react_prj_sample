@@ -1,0 +1,87 @@
+.bg-l
+{
+    background-color:rgb(4, 42, 87);
+    font-size: 36px;
+    height:70px;
+    line-height: auto;
+}
+
+a:hover 
+{
+    background-color: rgb(8, 106, 119);
+    color:white;
+    text-decoration: none;
+}
+
+.h-300
+{
+    height: 300px;
+}
+
+img
+{
+    border: groove black 2px;
+}
+
+.bg-in /* bg for headings */
+{
+    background-color: rgb(243, 129, 158);
+}
+
+.bg-i /* bg for link item in explosion box */
+{
+    background-color: rgb(196, 201, 194);
+    font-weight: bold ;
+}
+
+.nav-link /* text color for dropdown link item in explosion box */
+{
+    color:black;
+}
+
+.list-group-link
+{
+    color:rgb(148, 5, 48);
+    font-weight: bold;
+    font-size: large;
+}
+
+.jumbotron
+{
+    margin-bottom:0px;
+    background-image: url('/images/contactbg.jpg');
+    background-size: 100% 100%;
+}
+
+.s /* jumbotron for service page */
+{
+    margin-bottom:0px;
+    background-image: url('/images/servicebg.jpg');
+    background-size: 100% 100%;
+}
+
+
+.fl  /* link color for footer page */
+{
+    color:rgb(57, 58, 57);
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.bg-fimg
+{
+    background-image: url(https://image.shutterstock.com/image-photo/artistic-cloudy-sky-pastel-gradient-260nw-767776375.jpg);
+}
+
+
+/* about styles */
+.c
+{
+    color:rgb(138, 17, 37);
+}
+
+.h2
+{
+    color:rgb(138, 17, 37);
+}  
+

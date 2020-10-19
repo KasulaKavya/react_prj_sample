@@ -1,0 +1,33 @@
+[
+    {
+        "img":"1l.jpg",
+        "name":"1 layer explosion box",
+        "features":{ "size" : "(10x10)cm","price ": 450 },
+        "buy":"buy now "
+    },
+    {
+        "img":"2l.jpg",
+        "name":"2 layer explosion box",
+        "features":{ "size" : "(10x10)cm","price ": 450 },
+        "buy":"buy now"
+    },
+    {
+        "img":"sq1.jpg",
+        "name":"sqaure explosion box",
+        "features":{ "size" : "(10x10)cm","price ": 450 },
+        "buy":"buy now"
+    },  
+    {
+        "img":"heart1.jpg",
+        "name":"heart explosion box",
+        "features":{ "size" : "(10x10)cm","price ": 450 },
+        "ur":"buy now"
+    },      
+    {
+        "img":"hex1.jpg",
+        "name":"hexa explosion box",
+        "features":{ "size" : "(10x10)cm","price ": 450 },
+        "buy":"buy now"
+    }
+     
+]

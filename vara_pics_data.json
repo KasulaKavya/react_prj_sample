@@ -1,0 +1,103 @@
+{
+    "ex_pics":[
+        {
+            "img":"1l.jpg" ,
+            "name":"1 layer explosion box",
+            "features":["(10x10)cm",450],
+            "buy":"buy now "
+        },
+        {
+            "img":"2l.jpg",
+            "name":"2 layer explosion box",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },
+        {
+            "img":"sq1.jpg",
+            "name":"sqaure explosion box",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },  
+        {
+            "img":"heart1.jpg",
+            "name":"heart explosion box",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },      
+        {
+            "img":"hex1.jpg",
+            "name":"hexa explosion box",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        }
+    ],
+    
+    "sb_pics":[
+        {
+            "img":"sb1.jpg",
+            "name":"scrap books",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },
+        {
+            "img":"sb2.jpg",
+            "name":"scrap books",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },
+    
+        {
+            "img":"sb3.jpg",
+            "name":"scrap books",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        }
+    ],
+
+    "gc_pics":[
+        {
+            "img":"gc1.jpg",
+            "name":"greeting cards",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },
+    
+        {
+            "img":"gc2.jpg",
+            "name":"greeting cards",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        }   
+    ],
+    
+    "pp_pics":[
+        {
+            "img":"pp.jpg",
+            "name":"pop up boxes",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        }
+    ],
+    
+    "wd_pics":[
+        {
+            "img":"cage1.jpg",
+            "name":"cage type",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },
+        {
+            "img":"hang1.jpg",
+            "name":"hanging type",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        },
+        {
+            "img":"heartpic.jpg",
+            "name":"heart shape ",
+            "features":["(10x10)cm",450],
+            "buy":"buy now"
+        } 
+    ]
+    
+}
